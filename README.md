@@ -1,12 +1,12 @@
-# Marketing Campaign Performance Dashboard
+# **Marketing Campaign Performance Dashboard**
 
-## 📊 Project Overview
+## **📊 Project Overview**
 
 This project focuses on analyzing marketing campaign performance using Microsoft Excel. The dashboard provides insights into campaign spending, revenue, profit, conversions, ROAS, and overall campaign effectiveness.
 
 The project transforms raw marketing data into meaningful business insights using data cleaning, KPI analysis, Pivot Tables, charts, and an interactive dashboard.
 
-## 🎯 Objectives
+## **🎯 Objectives**
 
 - Analyze marketing campaign performance
 - Create meaningful KPIs
@@ -16,7 +16,7 @@ The project transforms raw marketing data into meaningful business insights usin
 - Build an interactive Excel dashboard
 - Generate actionable business insights
 
-## 🛠️ Tools & Technologies
+## **🛠️ Tools & Technologies**
 
 - Microsoft Excel
 - Data Cleaning
@@ -27,7 +27,7 @@ The project transforms raw marketing data into meaningful business insights usin
 - Data Visualization
 - Dashboard Development
 
-## 📈 Key Performance Indicators
+##** 📈 Key Performance Indicators**
 
 - Total Budget
 - Total Spend
@@ -40,7 +40,7 @@ The project transforms raw marketing data into meaningful business insights usin
 - CPA
 - Profit Margin
 
-## 📊 Dashboard Features
+##** 📊 Dashboard Features**
 
 The interactive dashboard includes:
 
@@ -54,7 +54,7 @@ The interactive dashboard includes:
 - ROAS Analysis
 - Interactive Filters and Slicers
 
-## 🔍 Key Insights
+##** 🔍 Key Insights**
 
 - Instagram achieved the highest ROAS among the marketing channels.
 - Instagram also generated the highest number of conversions.
@@ -62,7 +62,7 @@ The interactive dashboard includes:
 - Campaign performance varied across different channels and regions.
 - The overall campaign performance indicates opportunities for better budget allocation.
 
-## 💡 Business Recommendations
+## **💡 Business Recommendations**
 
 - Focus more on high-performing marketing channels.
 - Optimize spending on low-performing channels.
@@ -71,7 +71,7 @@ The interactive dashboard includes:
 - Analyze monthly trends to improve future campaigns.
 - Use data-driven insights for better marketing decisions.
 
-## 🚀 Conclusion
+## **🚀 Conclusion**
 
 This project demonstrates how Microsoft Excel can be used to analyze marketing campaign data and create an interactive business dashboard.
 
