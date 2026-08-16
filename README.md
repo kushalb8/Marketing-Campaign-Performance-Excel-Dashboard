@@ -27,7 +27,7 @@ The project transforms raw marketing data into meaningful business insights usin
 - Data Visualization
 - Dashboard Development
 
-##** 📈 Key Performance Indicators**
+## 📈 Key Performance Indicators
 
 - Total Budget
 - Total Spend
@@ -40,7 +40,7 @@ The project transforms raw marketing data into meaningful business insights usin
 - CPA
 - Profit Margin
 
-##** 📊 Dashboard Features**
+## 📊 Dashboard Features
 
 The interactive dashboard includes:
 
@@ -54,7 +54,7 @@ The interactive dashboard includes:
 - ROAS Analysis
 - Interactive Filters and Slicers
 
-##** 🔍 Key Insights**
+## 🔍 Key Insights
 
 - Instagram achieved the highest ROAS among the marketing channels.
 - Instagram also generated the highest number of conversions.
