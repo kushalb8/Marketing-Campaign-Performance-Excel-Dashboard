@@ -76,3 +76,10 @@ The interactive dashboard includes:
 This project demonstrates how Microsoft Excel can be used to analyze marketing campaign data and create an interactive business dashboard.
 
 The analysis helps understand campaign performance, identify high-performing channels and regions, and support better marketing and budget allocation decisions.
+
+## 👨‍💻 Author
+
+**M. Kushal**
+B.Tech – Computer Science Engineering
+
+[LinkedIn](https://www.linkedin.com/in/kushal-medaboina-315020328/) | [GitHub](https://github.com/kushalb8)
